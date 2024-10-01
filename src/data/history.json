@@ -1,0 +1,28 @@
+[
+  {
+    "role": "Senior Software Engineer",
+    "organisation": "Dell Technologies(RLabs Service Enterprises)",
+    "startDate": "April, 2022",
+    "endDate": "Sep, 2023",
+    "experiences": ["Engineered a comprehensive front-end architecture for a SaaS platform, resulting in a 30% increase in user engagement by integrating React.js, Angular, and modern Responsive Design principles."],
+    "imageSrc": "history/dell.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Accenture India (Teamlease Digital Services)",
+    "startDate": "May, 2021",
+    "endDate": "April, 2022",
+    "experiences": ["Engineered a robust .NET application that streamlined workflow processes for a client base of over 2000 users, achieving a 95% satisfaction rate and a 30% increase in operational efficiency by leveraging C#, ASP.NET, and SQL Server."],
+    "imageSrc": "history/accenture.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "SK IT Corporate (OPC) Private Limited",
+    "startDate": "Oct, 2016",
+    "endDate": "May, 2021",
+    "experiences": [
+      "Spearheaded the migration of a legacy .Net Framework application to .NET Core, leading to a 20% improvement in system performance and a 40% reduction in ongoing maintenance costs."
+    ],
+    "imageSrc": "history/skit.png"
+  }
+]

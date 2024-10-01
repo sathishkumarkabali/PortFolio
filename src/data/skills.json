@@ -1,0 +1,46 @@
+[ {
+  "title": ".NetCore",
+  "imageSrc": "skills/netcore.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/C.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+    },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+ 
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "skills/angular.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "Azure",
+    "imageSrc": "skills/azure.png"
+  }
+]

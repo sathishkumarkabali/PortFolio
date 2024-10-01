@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Payment Management",
+    "imageSrc": "projects/project.png",
+    "description": "The project targeted the development and maintenance of advanced payment systems, focusing on seamless transaction processing and enhanced system performance. Core activities included diagnosing customer-reported issues, leading bug-fixing initiatives, and implementing solutions to improve functionality and user experience. Collaboration with cross-functional teams was critical for optimizing payment workflows, ensuring compliance with industry standards, and delivering high-quality software. The primary goal was to enhance transaction reliability and elevate customer satisfaction within a rapidly evolving payment landscape.",
+    "skills": [".Net Core", "React", "Azure"],
+    "demo": "https://www.dell.com/",
+    "source": "https://github.com/sathishkumarkabali/PortFolio"
+  },
+  {
+    "title": "Migration Project",
+    "imageSrc": "projects/project.png",
+    "description": "Successfully directed a migration initiative that transitioned a legacy application from the .NET Framework to .NET Core, significantly boosting performance and scalability. Additionally, modernized the frontend by shifting from AngularJS to Angular, enhancing user experience and application responsiveness. This strategic effort involved analyzing existing code, refactoring components, and applying modern development methodologies. Collaboration with cross-functional teams ensured smooth integration, minimized downtime, and provided comprehensive documentation and training for team members on the new technologies.",
+    "skills": [".Net Core", "Angular", "Angular.Js"],
+    "demo": "https://www.accenture.com/",
+    "source": "https://github.com/sathishkumarkabali/PortFolio"
+  },
+  {
+    "title": "Telecom Distribution Project",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a sophisticated web app utilizing the .NET Framework and SQL, prioritizing a seamless user experience and efficient data management. Key features included user authentication, data validation, and CRUD to enhance overall functionality. Led a project employing the MVC architecture, which streamlined the application's structure and enhanced maintainability. This methodology fostered a better separation of concerns, enabling independent development and testing of components. The successful deployment of both projects led to improved performance and increased user engagement.",
+    "skills": [".Net", "SQL Server", "MVC"],
+    "demo": "https://itsk.in/",
+    "source": "https://github.com/sathishkumarkabali/PortFolio"
+  }
+]
